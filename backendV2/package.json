@@ -1,0 +1,14 @@
+{
+  "name": "backendv2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "firebase": "^11.6.1",
+    "firebase-admin": "^13.3.0"
+  }
+}
